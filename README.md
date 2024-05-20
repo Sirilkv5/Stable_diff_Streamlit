@@ -1,2 +1,1 @@
-# Py-LangChain-ChatGPT-VirtualAssistance
-LangChain ChatGPT
+Stable Diffusion
